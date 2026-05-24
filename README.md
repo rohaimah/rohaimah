@@ -1,5 +1,8 @@
 ## Hi there 👋
+## I do whatever comes to mind
+## Sometimes it works, sometimes it becomes another unfinished idea
 
+## I try things first and figure them out later.
 <!--
 **rohaimah/rohaimah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
